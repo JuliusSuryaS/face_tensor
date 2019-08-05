@@ -8,7 +8,7 @@ Prerequisite
 * Eigen C++
 
 The Simple HOOSVD operation is done with matlab (not optimized).\
-Obtaining and visualizing the vertices is done on C++ with Eigen library and OpenGL. \
+Obtaining and visualizing the vertices is done on C++ with Eigen library and OpenGL. 
 ---
 
 ##### Algorithm Overview
